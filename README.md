@@ -6,4 +6,7 @@
 - 🌐 You can find me on various platforms:
 - [LinkedIn] - https://www.linkedin.com/in/karan-rajan-295952295/
 - [Mail] - karanrajanr@gmail.com
+
+
+
 I am a dedicated mechanical engineering student who finds joy in the world of coding
